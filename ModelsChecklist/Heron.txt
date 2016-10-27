@@ -1,0 +1,42 @@
+Readying plane
+--------------
+Check battery cells
+    - 4.19v each at minimum
+Elevator secured
+    - Screws tied up
+Wing locker on
+Thcut active
+    - Transmitter biping
+
+/!\\ Nobody in propeller range /!\\
+
+Powering up plane
+--------------
+Hold plane with hand
+Connect battery
+    - Variator bips 3 times then stop
+Ensure wing locker is in place
+Secure canopy
+   - Gently pull on it to ensure it is secured
+
+== Plane is powered up ==
+
+Pre flight check
+----------------
+Elevator travel range
+    - Aligned with black mark
+Ailerons working
+Tail working
+
+* Flight mode checks
+** Select Cruise flight mode
+Move right stick
+    - Flaps goes down ailerons remain still
+
+** Select Landing mode
+Move right stick
+    - Flaps goes down, ailerons go up
+
+** Select Thermal mode
+    - Flaps goes 3-5mm down
+
